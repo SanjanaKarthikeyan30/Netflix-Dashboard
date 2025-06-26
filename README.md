@@ -1,1 +1,3 @@
-# Netflix-Dashboard
+# Netflix Content Analysis Dashboard in Power BI
+An interactive Power BI dashboard examining Netflix's global content catalog is shown in this project.  With the use of visual aids like pie charts, bar graphs, trend lines, and filled maps, it offers information on how movies and TV shows are distributed, how content is growing over time, how ratings are broken down, and where each show is available.  To examine trends in several aspects, users can filter by show kind, year of release, and nation.  The dashboard is an effective tool for comprehending Netflix's content strategy and viewer demographics since it places a strong emphasis on clarity, interactivity, and data storytelling.  Data modeling, Power Query (ETL), and Power BI DAX are among the skills used.
+
